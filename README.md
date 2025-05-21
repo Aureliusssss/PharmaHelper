@@ -89,7 +89,7 @@ Allows the user to search for a medication's information by querying its name.
 
 `updateMedication(id, newName, newPrice)`
 
-Allows the user to delete a medication (if expired, no longer in production, etc.)
+Allows the user to delete a medication (if expired, no longer in production, etc.) Also called in conjunction with addPrescription
 
 `checkLowStock()`
 

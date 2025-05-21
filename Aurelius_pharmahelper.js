@@ -80,7 +80,7 @@ module.exports = {
 
         console.log(`Prescription added for ${patientName}: ${quantity} x ${medName} ($${total.toFixed(2)})`);
 
-        // checkLowStock();
+        this.checkLowStock();
     },
 
     // Prompts user for name, stock and price.
