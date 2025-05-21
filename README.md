@@ -2,7 +2,7 @@
 
 PharmaHelper intends to simuilate the process of inventory & prescription management within any pharmaceutical store.
 
-Inspired by numerous pharmacies that often go to, it allows users to add, retrieve, delete and update types of medicines alongside the creation of orders and information regaridng them.
+Inspired by numerous pharmacies that often go to, it allows users to add, retrieve, delete and update types of medicines alongside the creation of orders and information regarding them.
 
 ## Getting Started
 
