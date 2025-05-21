@@ -39,6 +39,8 @@ node app.js
 
 ### Arrays
 
+### These arrays come with preinserted records
+
 `medications`
 
 Each object represents a drug and contains:
