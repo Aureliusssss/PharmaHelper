@@ -1,6 +1,6 @@
 # PharmaHelper | Assignment 1
 
-PharmaHelper intends to simuilate the process of inventory & prescription management within a pharmaceutical store.
+PharmaHelper intends to simulate the process of inventory & prescription management within a pharmaceutical store.
 
 Inspired by numerous pharmacies that we often go to, it allows users to add, retrieve, delete and update types of medicines alongside the creation of orders and information regarding them.
 
