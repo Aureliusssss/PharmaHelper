@@ -18,7 +18,7 @@ Create a file called "app.js" within the installation folder.
 
 Add `const pharmahelper = require("./Aurelius_pharmahelper.js");` at the very top of the file.
 
-To utilise module functions, call them by using "pharmacy.(function)".
+To utilise module functions, call them by using "pharmahelper.(function)".
 
 A few examples would be
 
@@ -71,11 +71,11 @@ Prints out all records found in the Medication array.
 
 `addPrescription(patientName, medName, quantity)`
 
-Adds a prescription record to the prescription array using the given (mandatory) arguments
+Adds a prescription record to the prescription array using the given (mandatory) arguments.
 
 `addMedicine(name, stock, price)`
 
-Adds a medicine record to the medicine array using the given (mandatory) arguments
+Adds a medicine record to the medicine array using the given (mandatory) arguments.
 
 `calculateTotalMedicationsSold()`
 
@@ -91,11 +91,11 @@ Allows the user to search for a medication's information by querying its name.
 
 `updateMedication(id, newName, newPrice)`
 
-Allows the user to delete a medication (if expired, no longer in production, etc.) Also called in conjunction with addPrescription
+Allows the user to delete a medication (if expired, no longer in production, etc.) Also called in conjunction with addPrescription.
 
 `checkLowStock()`
 
-Prints out any entries of medicines which stock is below the provided threshold in the module
+Prints out any entries of medicines which stock is below the provided threshold in the module.
 
 ## References
 
